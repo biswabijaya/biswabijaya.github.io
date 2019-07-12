@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://biswabijaya.com/ospractical/</title>
+  <link>http://biswabijaya.com/ospractical/</link>
+
+<item>
+     <link>http://biswabijaya.com/ospractical/</link>
+     <title>Operating System Experiments</title>
+     <description>SRM University 4th Semester Operating System Experiments</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biswabijaya.com/ospractical/3.html</link>
+     <title>FCFS CPU Scheduling Using C++</title>
+     <description>Operating System Experiment | First Come First Serve CPU Scheduling Using C++</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biswabijaya.com/ospractical/4.html</link>
+     <title>SJF CPU Scheduling Using C++</title>
+     <description>Operating System Experiment | Shortest Job First CPU Scheduling Using C++</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biswabijaya.com/ospractical/5.html</link>
+     <title>Priority CPU Scheduling Using C++</title>
+     <description>Operating System Experiment | Priority CPU Scheduling Using C++</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biswabijaya.com/ospractical/6.html</link>
+     <title>Round Robin CPU Scheduling Using C++</title>
+     <description>Operating System Experiment | Round Robin CPU Scheduling Using C++</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biswabijaya.com/ospractical/7.html</link>
+     <title>Page Replacement Algorithm Using c++</title>
+     <description>Operating System Experiment | Page Replacement Algorithm Using C++</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biswabijaya.com/ospractical/8.html</link>
+     <title>Banker's Algorithm Using c++</title>
+     <description>Operating System Experiment | Banker's Algorithm Using C++</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biswabijaya.com/ospractical/9.html</link>
+     <title>Reader Writer Problem Using C</title>
+     <description>Operating System Experiment | Reader Writer Problem Algorithm Using C++</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://biswabijaya.com/ospractical/10.html</link>
+     <title>Memory Arrangement Algorithm Using C++</title>
+     <description>Operating System Experiment | Memory Arrangement Using First Fit, Best Fit And Worst Fit in C++</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
